@@ -1,7 +1,5 @@
 {
-  "private": false,
-  "name": "personalPortfolio",
-  "homepage": "https://irakli9909.github.io/Portfolio",
+  "name": "portfolio",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",

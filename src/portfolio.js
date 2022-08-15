@@ -178,7 +178,7 @@ const projects = {
       id: "0",
       name: "ol-academy-react-todo",
       url: "https://github.com/irakli9909/ol-academy-react-todo.git",
-      description: "This is TOdolis, using react hooks.",
+      description: "This is Todo list, using react hooks.",
       languages: [
         {
           name: "React",
@@ -194,7 +194,7 @@ const projects = {
       id: "1",
       name: "ol-academy-react-todo-class",
       url: "https://github.com/irakli9909/ol-academy-react-todo-class.git",
-      description: "A React project Todolis, using react class.",
+      description: "A React project Todo list, using react class.",
       languages: [
         {
           name: "HTML5",
@@ -215,7 +215,7 @@ const projects = {
       name: "ol-academy-popup-with-handling-outside-click",
       url:
         "https://github.com/irakli9909/ol-academy-popup-with-handling-outside-click.git",
-      description: "A small project outside-clic.",
+      description: "A small project outside-click.",
       languages: [
         {
           name: "React",
@@ -249,7 +249,7 @@ const projects = {
     },
     {
       id: "4",
-      name: "ol-academy-Portfolio",
+      name: "ol-academy-Quiz",
       url: "https://i-quiz-app.netlify.app/",
       description: "My final project in ol-academy",
       languages: [
